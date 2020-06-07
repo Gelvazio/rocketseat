@@ -24,10 +24,10 @@
   </a>
 </p>
 <p align="center">
-<a 
-  href="https://github.com/Gelvazio/rocketseat/tree/master/new-level-weeks/next-level-week-01/backend/insomnia.json"
-  target="_blank"><img src="https://insomnia.rest/images/run.svg" 
-  alt="Run in Insomnia"></a>
+  <a 
+    href="https://insomnia.rest/run/?label=new-level-week-01-Ecoleta&uri=https://github.com/Gelvazio/rocketseat/tree/master/new-level-weeks/next-level-week-01/backend/insomnia.json"
+    target="_blank"><img src="https://insomnia.rest/images/run.svg" 
+    alt="Run in Insomnia"></a>
 </p>
 
 <p align="center">
@@ -47,6 +47,7 @@ Through our method you will learn new tools, learn about new technologies and di
 An online and completely free event that will help you take the next step in your evolution as a dev.
 
 ### Days
+
 - Dia 1: Acelerando sua evolução 01/06 - ✅
 - Dia 2: Olhando para as oportunidades 02/06 - ✅
 - Dia 3: A escolha da Stack 03/06 - ✅
@@ -55,13 +56,12 @@ An online and completely free event that will help you take the next step in you
 
 ## 💻 Project
 
-Ecoleta is a project developed based on international environment week. 
+Ecoleta is a project developed based on international environment week.
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 <h1 align="center">
     <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
 </h1>
-
 
 ## :rocket: Technologies
 
@@ -83,7 +83,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 From your command line:
 
-### Install API 
+### Install API
 
 ```bash
 # Clone this repository
@@ -160,7 +160,6 @@ After merging your receipt request to done, you can delete a branch from yours.
 ## :memo: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/Gelvazio/rocketseat/blob/master/LICENSE) for details.
-
 
 Made with ♥ by Gelvazio Camargo :wave: [Get in touch!](https://www.linkedin.com/in/Gelvazio/)
 
