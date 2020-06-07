@@ -24,8 +24,12 @@
   </a>
 </p>
 <p align="center">
-<a href="https://insomnia.rest/run/?label=NLW%201.0%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FGelvazio%2rocketseat%2Fmaster%2Fnew-level-week%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+<a 
+  href="https://github.com/Gelvazio/rocketseat/tree/master/new-level-weeks/next-level-week-01/backend/insomnia.json"
+  target="_blank"><img src="https://insomnia.rest/images/run.svg" 
+  alt="Run in Insomnia"></a>
 </p>
+
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
