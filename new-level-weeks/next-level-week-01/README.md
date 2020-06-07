@@ -161,7 +161,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 This project is under the MIT license. See the [LICENSE](https://github.com/Gelvazio/rocketseat/blob/master/LICENSE) for details.
 
-Made with ♥ by Gelvazio Camargo :wave: [Get in touch!](https://www.linkedin.com/in/Gelvazio/)
+Made with ♥ by Gelvazio Camargo :wave: [Get in touch!](https://www.linkedin.com/in/gelvaziocamargo/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
